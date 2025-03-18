@@ -28,3 +28,7 @@ id,nome,destaque,descricao,imagem
 27,PHP,false,Linguagem de programação de uso geral.,https://github.com/AlonsoRafael/assets/raw/main/imagem/php.svg
 28,ChatGPT,false,API de conversação baseada em GPT-3.,https://github.com/AlonsoRafael/assets/raw/main/imagem/openai.svg
 29,Dart,false,Linguagem de programação para desenvolvimento de aplicativos móveis com Flutter.,https://github.com/AlonsoRafael/assets/raw/main/imagem/dart.svg
+30,R,false,Linguagem de programação voltada para estatística e análise de dados.,https://github.com/AlonsoRafael/assets/raw/main/imagem/r.svg
+31,C,false,Linguagem de programação de baixo nível amplamente usada em sistemas operacionais e embarcados.,https://github.com/AlonsoRafael/assets/raw/main/imagem/c.svg
+32,C++,false,Linguagem de programação orientada a objetos e de alto desempenho.,https://github.com/AlonsoRafael/assets/raw/main/imagem/cplusplus.svg
+33,R,false,Sistema operacional de código aberto baseado no núcleo Linux.,https://github.com/AlonsoRafael/assets/raw/main/imagem/linux.svg
